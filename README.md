@@ -16,6 +16,7 @@ Raw URL pattern:
 ```
 https://raw.githubusercontent.com/ZaouiAmine/portfolio-assets/main/<folder>/<file>
 ```
+```
  component App() {
       let mut draft: String = "";
       let mut wall: String = "";
@@ -175,3 +176,4 @@ https://raw.githubusercontent.com/ZaouiAmine/portfolio-assets/main/<folder>/<fil
     </script>
   </body>
   </html>
+```
